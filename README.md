@@ -1,8 +1,7 @@
 # Portfolio-Efficient-Frontier-
-Construction of an efficient frontier of a two-asset portfolio 
 
-We present construction of an efficient frontier of a two asset portfolio. We will build an efficient frontier for different weights of two exchange traded funds (ETFs) that track the S&P 500 Index. From the constructed efficient frontier we then proceed to select a portfolio weight combination based on the returns and risk requirements.
+Investors often aim at maximizing returns on investment for a given level of risk. This can be achieved by selecting a number of assets in which to invest in so as to minimize the risk and at the same time maximize the returns on investment. An efficient frontier represents a set of optimal portfolios that offer the highest expected returns for a defined level of risk (https://www.investopedia.com/terms/e/efficientfrontier.asp).
 
-The one year closing prices of the two ETFs; XLI and XLE is used in our analysis.
+In this tutorial, we will demonstrate how to construct an efficient portfolio of a two-asset portfolio bnased on the different weight combimnations of the assets. The assets we will use for this demonstration are two S&P 500 Exchange Traded Funds (ETFs) of XLE and XLI. . We then proceed to select a suitable portfolio combination on the efficient frontier based on the risk tolerance and the required expected returns.
 
 
